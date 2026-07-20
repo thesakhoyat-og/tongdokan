@@ -196,7 +196,7 @@ Or register a new account at: `http://localhost/tongdokan/customer_register.php`
 
 This project followed SCRUM methodology:
 
-- 7 sprints over 7 weeks
+- 5 sprints over 5 weeks
 - Daily standup meetings (10-15 minutes)
 - Weekly sprint reviews with the teacher
 - Product backlog maintained on Jira
