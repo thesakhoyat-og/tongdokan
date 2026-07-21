@@ -8,7 +8,7 @@
 
 Tong Dokan is a web-based e-commerce platform that sells authentic Bangladeshi products to customers worldwide. The system includes a public-facing storefront where customers can browse and purchase products, and a secure admin panel where staff members manage their individual components.
 
-The project was built following **Agile/SCRUM methodology** over 7 sprints, with daily standups, sprint reviews, and a product backlog managed on Jira.
+The project was built following **Agile/SCRUM methodology** over 5 sprints, with daily standups, sprint reviews, and a product backlog managed on Jira.
 
 ---
 
