@@ -192,6 +192,24 @@ Or register a new account at: `http://localhost/tongdokan/customer_register.php`
 
 ---
 
+
+##Academic Purpose
+
+This project was created for academic purposes as part of a Software Engineering module.
+
+It demonstrates:
+
+Full-stack web development
+PHP and MySQL integration
+Relational database design
+CRUD functionality
+Authentication and session management
+Role-based access control
+Agile team collaboration
+Git and GitHub version control
+Jira backlog management
+Modular system development
+
 ## Agile Process
 
 This project followed SCRUM methodology:
