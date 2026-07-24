@@ -210,16 +210,21 @@ Git and GitHub version control
 Jira backlog management
 Modular system development
 
-## Agile Process
+##Agile Development Process
 
-This project followed SCRUM methodology:
+The project followed the SCRUM methodology.
 
-- 5 sprints over 5 weeks
-- Daily standup meetings (10-15 minutes)
-- Weekly sprint reviews with the teacher
-- Product backlog maintained on Jira
-- Source code version controlled on GitHub
-- Individual journals submitted each week documenting progress
+The development process included:
+
+Five sprints over five weeks
+Daily stand-up meetings lasting approximately 10 to 15 minutes
+Weekly sprint reviews with the module teacher
+A product backlog managed through Jira
+Task distribution based on team roles
+GitHub-based source control
+Individual weekly development journals
+Sprint planning and feature prioritisation
+Continuous testing and integration of team components
 
 ---
 
