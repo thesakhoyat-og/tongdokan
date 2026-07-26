@@ -228,6 +228,23 @@ Continuous testing and integration of team components
 
 ---
 
+## Future Improvements
+
+Possible future improvements include:
+
+Save conversation history to a JSON file
+Add commands to clear the conversation
+Limit the number of stored messages
+Add coloured terminal output
+Add response streaming
+Add multiple AI personalities
+Allow users to choose a model
+Add voice input and speech output
+Build a graphical interface using Tkinter
+Build a web interface using Flask
+Store conversations in a database
+Add automated tests
+
 ## License
 
 This project was built for academic purposes as part of a Software Engineering module.
