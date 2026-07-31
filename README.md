@@ -1,6 +1,6 @@
 # Tong Dokan — Bangladeshi E-Commerce Platform
 
-> "From the tong to your door" — A full-stack e-commerce web application built using PHP, MySQL and XAMPP as part of a Software Engineering Agile Project.
+> "From the tong to your door" — A full-stack e-commerce web application built using PHP, MySQL and XAMPP as part of a Agile Development Team Project.
 
 ---
 
