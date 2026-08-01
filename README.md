@@ -195,7 +195,7 @@ Or register a new account at: `http://localhost/tongdokan/customer_register.php`
 
 ##Academic Purpose
 
-This project was created for academic purposes as part of a Software Engineering module.
+This project was created for academic purposes as part of a Agile Development Team Project module.
 
 It demonstrates:
 
