@@ -247,5 +247,5 @@ Add automated tests
 
 ## License
 
-This project was built for academic purposes as part of a Software Engineering module.
+This project was built for academic purposes as part of a Agile Development Team Project module.
 2026 Tong Dokan Team — Khalid, Ovy, Siam, Shafin & Mahraz
