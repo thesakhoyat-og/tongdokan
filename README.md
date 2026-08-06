@@ -177,7 +177,9 @@ Or register a new account at: `http://localhost/tongdokan/customer_register.php`
 - Update delivery status
 - View payment method breakdown (PayPal / Card / Apple Pay)
 
-
+**All Staff**
+- Change own username and password from the Profile page
+- Changes reflect instantly in the database
 
 ---
 
