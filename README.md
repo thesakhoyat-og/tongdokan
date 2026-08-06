@@ -214,7 +214,7 @@ Modular system development
 
 The project followed the SCRUM methodology.
 
-The development process included:
+## The development process included:
 
 Five sprints over five weeks
 Daily stand-up meetings lasting approximately 10 to 15 minutes
