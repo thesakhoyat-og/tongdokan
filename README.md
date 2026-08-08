@@ -249,3 +249,9 @@ Add automated tests
 
 This project was built for academic purposes as part of a Agile Development Team Project module.
 2026 Tong Dokan Team — Khalid, Ovy, Siam, Shafin & Mahraz
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+Every starred repository makes one programmer slightly more motivated and one README feel less like it was written into the void.
